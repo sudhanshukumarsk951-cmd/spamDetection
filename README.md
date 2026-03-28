@@ -34,7 +34,7 @@ The model is trained using a `spam.csv` file which includes:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/spam-detection.git](https://github.com/your-username/spam-detection.git)
+    git clone [https://github.com/sudhanshukumarsk951-cmd/spamDetection.git](https://github.com/sudhanshukumarsk951-cmd/spamDetection.git)
     cd spam-detection
     ```
 
