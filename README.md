@@ -19,7 +19,7 @@ This application is a foundational example of how Natural Language Processing (N
 * **Fast & Accurate:** Implements the **Multinomial Naive Bayes** algorithm, which is highly efficient for text-based classification tasks.
 * **Interactive Dashboard:** A user-friendly interface that allows for real-time testing and validation.
 
-## 🛠️ Technical Stack
+##  Technical Stack
 * **Python:** Core programming language.
 * **Pandas:** For data manipulation and analysis.
 * **Scikit-Learn:** For machine learning model training and text vectorization.
